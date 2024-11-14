@@ -6258,8 +6258,8 @@
                 "type": "object",
                 "example": {
                   "grant_type": "authorization_code",
-                  "client_id": "e3529b446b18fc8b9a2e26bffd4d4b698c57c6e14c3a598fb959f12df6eccedf",
-                  "client_secret": "94ea83a20c2cc98ad4d4b85c7b4166420c58a5d2c80e6e6677f6f6e5a2e1de8f",
+                  "client_id": "",
+                  "client_secret": "",
                   "code": "9c655bcda34f7776d8f5bfbee7c73909c3533fd2d0f711caaacbc401d3419ccf",
                   "redirect_uri": "https://app.buildwise.ai/procore",
                   "refresh_token": "string"
